@@ -1,5 +1,5 @@
 # student portfolio
- Welcome to my page.it's coming up tomorrow where i learn how to use Github ? 
+ Welcome to my page.it's coming up tomorrow where i learn how to use Github ? live on youtube.
 
 Now,i know
 1.CHALK
